@@ -10,6 +10,6 @@ public class ReverseNumber {
             num /= 10;
         }
 
-        System.out.println("Reversed num is: " + reversed);
+        System.out.println("Reversed str is: " + reversed);
     }
 }
